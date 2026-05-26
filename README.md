@@ -35,7 +35,7 @@ A license tells the community how they can use your work. Without one, the code 
   - GNU GPLv3: "Copyleft." Ensures that any derivative work must also be open-source. Choose this if you want to ensure the code remains open forever.
 
 4. Contributing Guide (CONTRIBUTING.md)
-  - Outline the expectations for students:
-Use Pull Requests for all changes.
+Outline the expectations for students:
+  - Use Pull Requests for all changes.
   - Include tests for new functionality.
   - Keep the documentation updated.
