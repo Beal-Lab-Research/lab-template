@@ -1,4 +1,5 @@
-Contributing to [Project Name]
+# Contributing to [Project Name]
+
 We welcome contributions to this research project! To ensure our code remains high-quality and reproducible, please follow these guidelines:
 
 1. Report Bugs: Use the "Issues" tab. Please provide as much detail as possible, including code snippets and error messages.
