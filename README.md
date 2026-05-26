@@ -19,8 +19,8 @@ The CITATION.cff (Citation File Format) is a human- and machine-readable file th
   - cff-version: 1.2.0
   - message: "If you use this software, please cite it as below."
   - authors:
-  - family-names: "Novelli"
-  - given-names: "Guillaume"
+  - family-names: "Goodman"
+  - given-names: "Saul"
   - orcid: "https://orcid.org/0000-0000-0000-0000"
   - title: "Your Project Title"
   - version: 1.0.0
